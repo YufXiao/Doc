@@ -1,2 +1,2 @@
 # Doc
-## This is a repo where I put some of my personal files.
+## This is a repo where I put some personal documents.
